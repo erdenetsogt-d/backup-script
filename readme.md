@@ -25,6 +25,7 @@ Make sure the following prerequisites are met:
 2. `sshpass` installed (you can install it using `sudo apt-get install sshpass`)
 3. MikroTik devices with SSH enabled
 4. Fortinet devices with SSH enabled, and the configuration moved to an SFTP server.
+5. Tested on Mikrtotik V7 and Fortinet v7.4.1 
 
 ### Installation
 
