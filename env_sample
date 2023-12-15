@@ -1,0 +1,14 @@
+MIKROTIK_IP="MK_IP"
+MIKROTIK_USERNAME="backup"
+MIKROTIK_PASSWORD="MKPASS"
+PORT=2022
+#######################################
+FORTI_IP="FORTI_IP"
+FORTI_USERNAME="fortiuser"
+FORTI_PASSWORD="fortipass"
+FORTI_PORT=22
+###############STP_HOST#################
+FTP_USERNAME="net-back"
+FTP_HOST="SFTP_HOST"
+FTP_PASS="STP_PASS"
+FTP_PATH="/home/net-back/backup/fw/"
