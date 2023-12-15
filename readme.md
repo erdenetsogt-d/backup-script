@@ -35,6 +35,6 @@ Make sure the following prerequisites are met:
 1. Create .env file and fill it
 2. Build executable like GOARCH=amd64 GOOS=linux go build -o backup main.go
 3. chmod +x backup
-4. ./backup mikrotik "Backup mikrotik backup rsc file"
-5. ./backup fortinet "Backup fortinet conf to sftp server"
+4. ./backup mikrotik    this will ---->"Backup mikrotik backup rsc file"
+5. ./backup fortinet    this will ---->"Backup fortinet conf to sftp server"
 
